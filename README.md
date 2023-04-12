@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kristicornett a problem solver
+- 👋 Hi, I’m @kristicornett a resilient problem solver
 - 👀 I’m deepening my knowledge in all things code!
-- 🌱 JavaScript developer learning React and Python!
+- 🌱 Python| React |JavaScript| SQL| Developer!
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me: email me @ kristi@cornettclan.com
 - My linkedin: https://www.linkedin.com/in/kristi-cornett-350640248/
