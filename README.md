@@ -19,6 +19,10 @@
   
 
 - ⚡ Fun fact: I'm a Grassroots Soccer Referee  
+
+
+- Check out my Final Frontend Capstone Survive: https://github.com/kristicornett/Survive 
+The purpose of this application is to help users survive the end of the world zombie apocalpyse.
   
 
 <br/>  
