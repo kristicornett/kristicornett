@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Kristi Cornett, a resilient full-stack apprentice at Nashville Software School. 👩I've been 🏻‍💻working remotely since 2020. I started my journey into software development in 2022. 🚀</div>  
+### <div align="center">I'm Kristi Cornett, a resilient full-stack apprentice at Nashville Software School. 👩 I've been 💻 working remotely since 2020. I started my journey into software development in 2022. 🚀</div>  
   
 
 - 🔭 I’m currently working on Codecademy's Computer Science Module.  
