@@ -12,13 +12,17 @@
 - 🔭 I’m currently working on Codecademy's Computer Science Module.  
   
 
-- 🌱 I’m currently learning Django  
+- 🌱 I’m currently learning C#
   
 
 - 🧩 I'd love to collaborate on future projects!  
   
 
-- ⚡ Fun fact: I'm a Grassroots Soccer Referee  
+- ⚡ Fun fact: I'm a Grassroots Soccer Referee
+
+
+- Check out my Final Fullstack Capstone Scholar Squad: server-side: https://github.com/kristicornett/scholar-squad-server
+  client-side: https://github.com/kristicornett/scholarsquad-client
 
 
 - Check out my Final Frontend Capstone Survive: https://github.com/kristicornett/Survive 
