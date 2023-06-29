@@ -2,7 +2,7 @@
 
 ### Welcome to my Github!  
 <div align="center">
-<img src="https://media.licdn.com/dms/image/D4E35AQElofp8hjd4xw/profile-framedphoto-shrink_100_100/0/1679419910532?e=1686175200&v=beta&t=7xvxOEJUS0dKgUQ4IVkKVzwaUFHEdPgIOKgiXds7opk"/>
+
 </div>  
   
 
