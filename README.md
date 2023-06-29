@@ -2,14 +2,14 @@
 
 ### Welcome to my Github!  
 <div align="center">
-
+<img src="https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/278298475_10158280694796932_9064459630326308704_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=MZudmvvZA6IAX_P3Iw6&_nc_ht=scontent-atl3-2.xx&oh=00_AfDUin54nfeohHotcRLMOgLpUVUDC9KPyg1SFvJ1D0k7aw&oe=64A20D60" />
 </div>  
   
 
-### <div align="center">I'm Kristi Cornett, a full-stack apprentice at Nashville Software School. 👩🏻‍💻I've been working remotely since 2020.  I started my journey into software development in 2022. 🚀</div>  
+### <div align="center">I'm Kristi Cornett, a full-stack Teaching Assistant at Nashville Software School. 👩🏻‍💻I've been working remotely since 2020.  I started my journey into software development in 2022. 🚀</div>  
   
 
-- 🔭 I’m currently working on Codecademy's Computer Science Module.  
+- 🔭 I’m currently working on Codecademy's professional certifications for Full-stack web development.  
   
 
 - 🌱 I’m currently learning C#
