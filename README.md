@@ -2,7 +2,9 @@
 
 ### Welcome to my Github!  
 <div align="center">
+  <aside>
 <img src="https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/278298475_10158280694796932_9064459630326308704_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=MZudmvvZA6IAX_P3Iw6&_nc_ht=scontent-atl3-2.xx&oh=00_AfDUin54nfeohHotcRLMOgLpUVUDC9KPyg1SFvJ1D0k7aw&oe=64A20D60" />
+    </aside>
 </div>  
   
 
