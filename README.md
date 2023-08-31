@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on Codecademy's professional certifications for Full-stack web development.  
   
 
-- 🌱 I’m currently I'm digging deeper into React!
+- 🌱 I’m currently learning C# and TypeScript!
   
 
 - 🧩 I'd love to collaborate on future projects!  
