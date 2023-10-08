@@ -11,10 +11,10 @@
 ### <div align="center">I'm Kristi Cornett, a full-stack developer and Teaching Assistant at Nashville Software School. 👩🏻‍💻I've been working remotely since 2020.  I started my journey into software development in 2022. 🚀</div>  
   
 
-- 🔭 I’m currently working on Codecademy's professional certifications for Full-stack web development.  
+- 🔭 I’m currently employeed as a Computer Systems Analyst - Developer at Precise Systems" 
   
 
-- 🌱 I’m currently learning C# and TypeScript!
+- 🌱 I’m currently learning C# and Vue!
   
 
 - 🧩 I'd love to collaborate on future projects!  
